@@ -90,7 +90,7 @@ jobs:
         git config --global user.email "yamanoor888@gmail.com"
         git config --global user.name "Yamanoor Valikar"
         git add helm/go-web-app/values.yaml
-        git commit -m "Update tag in Helm chart"
+        git commit -m "Update tag2 in Helm chart"
         git push
 
 
